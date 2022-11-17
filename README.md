@@ -15,7 +15,7 @@
 
 **4. Nội dung các file:**
 - File Python: dùng để cleaning data và phân chia các nhóm khách hàng
-- File PBI: dùng để phân tích và trực quan hóa dữ liệu
+- File PBI: dùng để phân tích và trực quan hóa dữ liệu (tại đây)
 - File PDF: đưa ra có thông tin nổi bật và tìm insight
 
 _Note: Trong các file có sử dụng tiếng Anh lẫn tiếng Việt. Mình đã cố chuyển hết về tiếng Việt, nhưng có những phần vẫn phải dùng tiếng Anh để thuận tiện cho việc phân tích. Mong người đọc thông cảm_
