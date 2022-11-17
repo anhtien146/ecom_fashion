@@ -15,7 +15,7 @@
 
 **4. Nội dung các file:**
 - File Python: dùng để cleaning data và phân chia các nhóm khách hàng
-- File PBI: dùng để phân tích và trực quan hóa dữ liệu (tại đây)
+- File PBI: dùng để phân tích và trực quan hóa dữ liệu
 - File PDF: đưa ra có thông tin nổi bật và tìm insight
 
 _Note:_
@@ -24,4 +24,4 @@ _- Trong các file có sử dụng tiếng Anh lẫn tiếng Việt. Mình đã 
 
 _- Đường dẫn PBI đã được đính trong file PDF, hãy tải file PDF về để truy cập vào đường dẫn (hoặc có truy cập tại đây: https://bit.ly/ecom_fashion)_
 
-_- Nguổn dữ liệu: https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store_
+_- Nguồn dữ liệu: https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store_
