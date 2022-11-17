@@ -19,6 +19,6 @@
 - File PDF: đưa ra có thông tin nổi bật và tìm insight
 
 _Note:
-- Trong các file có sử dụng tiếng Anh lẫn tiếng Việt. Mình đã cố chuyển hết về tiếng Việt, nhưng có những phần vẫn phải dùng tiếng Anh để thuận tiện cho việc phân tích. Mong người đọc thông cảm
-- Đường dẫn PBI đã được đính trong file PDF, hãy tải file PDF về để truy cập vào đường dẫn (hoặc có truy cập tại đây: https://bit.ly/ecom_fashion)
-- Nguổn dữ liệu: https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store_
+_- Trong các file có sử dụng tiếng Anh lẫn tiếng Việt. Mình đã cố chuyển hết về tiếng Việt, nhưng có những phần vẫn phải dùng tiếng Anh để thuận tiện cho việc phân tích. Mong người đọc thông cảm_
+_- Đường dẫn PBI đã được đính trong file PDF, hãy tải file PDF về để truy cập vào đường dẫn (hoặc có truy cập tại đây: https://bit.ly/ecom_fashion)
+_- Nguổn dữ liệu: https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store_
