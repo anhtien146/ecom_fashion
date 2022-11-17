@@ -18,7 +18,7 @@
 - File PBI: dùng để phân tích và trực quan hóa dữ liệu (tại đây)
 - File PDF: đưa ra có thông tin nổi bật và tìm insight
 
-_Note:
-_- Trong các file có sử dụng tiếng Anh lẫn tiếng Việt. Mình đã cố chuyển hết về tiếng Việt, nhưng có những phần vẫn phải dùng tiếng Anh để thuận tiện cho việc phân tích.
-_- Đường dẫn PBI đã được đính trong file PDF, hãy tải file PDF về để truy cập vào đường dẫn (hoặc có truy cập tại đây: https://bit.ly/ecom_fashion)
-_- Nguổn dữ liệu: https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store
+_Note:_
+_- Trong các file có sử dụng tiếng Anh lẫn tiếng Việt. Mình đã cố chuyển hết về tiếng Việt, nhưng có những phần vẫn phải dùng tiếng Anh để thuận tiện cho việc phân tích._
+_- Đường dẫn PBI đã được đính trong file PDF, hãy tải file PDF về để truy cập vào đường dẫn (hoặc có truy cập tại đây: https://bit.ly/ecom_fashion)_
+_- Nguổn dữ liệu: https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store_
