@@ -1,5 +1,5 @@
 # ecom_fashion
-**1. Tổng quan về dữ liệu **
+**1. Tổng quan về dữ liệu**
 - Dữ liệu được cắt nhỏ từ một sản TMĐT thời trang mới hơn 9M người dùng đã đăng ký. Sàn TMĐT ra mắt lần đầu tiên tại châu Âu vào năm 2009 và được mở rộng ra toàn thế giới. Mô hình hoạt động của công ty là trung gian giữa người mua và người bán. Mô hình này giống với Shopee, Lazada, Thuốc Sỉ,…
 - Trong nền tảng của sàn này, người dùng có thể mua và bán sản phẩm của mình cho người khác. Trong bộ dataset này ta sẽ tìm hiểu về người mua và người bán
 
